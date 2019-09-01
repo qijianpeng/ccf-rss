@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>Research</title>
+</head>
+<body>
+<outline text="交叉/综合/新兴" title="交叉/综合/新兴">
+<outline htmlUrl="http://dl.acm.org/citation.cfm?id=3338848" title="Journal of the ACM (JACM)" type="rss" xmlUrl="http://rss.acm.org/dl/J401.xml" text="Journal of the ACM (JACM)" />
+<outline type="rss" xmlUrl="https://ieeexplore.ieee.org/rss/TOC5.XML" htmlUrl="http://ieeexplore.ieee.org" text="Proceedings of the IEEE - new TOC" title="Proceedings of the IEEE - new TOC" />
+</outline>
+<outline text="人工智能" title="人工智能">
+<outline htmlUrl="https://www.sciencedirect.com/journal/artificial-intelligence" text="Artificial Intelligence" xmlUrl="http://rss.sciencedirect.com/publication/science/00043702" type="rss" title="Artificial Intelligence" />
+<outline text="IEEE Transactions on Pattern Analysis and Machine Intelligence - new TOC" type="rss" xmlUrl="https://ieeexplore.ieee.org/rss/TOC34.XML" title="IEEE Transactions on Pattern Analysis and Machine Intelligence - new TOC" htmlUrl="http://ieeexplore.ieee.org" />
+<outline title="International Journal of Computer Vision" text="International Journal of Computer Vision" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=11263&amp;channel-name=International+Journal+of+Computer+Vision" type="rss" htmlUrl="http://link.springer.com" />
+<outline text="The Journal of Machine Learning Research" type="rss" title="The Journal of Machine Learning Research" htmlUrl="http://dl.acm.org/citation.cfm?id=3322706" xmlUrl="http://rss.acm.org/dl/J832.xml" />
+</outline>
+<outline title="人机交互与普适计算" text="人机交互与普适计算">
+<outline title="ACM Transactions on Computer-Human Interaction (TOCHI)" text="ACM Transactions on Computer-Human Interaction (TOCHI)" type="rss" htmlUrl="http://dl.acm.org/citation.cfm?id=3349608" xmlUrl="http://rss.acm.org/dl/J756.xml" />
+<outline text="International Journal of Human-Computer Studies" title="International Journal of Human-Computer Studies" xmlUrl="http://rss.sciencedirect.com/publication/science/10715819" type="rss" htmlUrl="https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies" />
+</outline>
+<outline text="数据库/数据挖掘/内容检索" title="数据库/数据挖掘/内容检索">
+<outline xmlUrl="http://rss.acm.org/dl/J777.xml" text="ACM Transactions on Database Systems (TODS)" type="rss" title="ACM Transactions on Database Systems (TODS)" htmlUrl="http://dl.acm.org/citation.cfm?id=3339885" />
+<outline htmlUrl="http://dl.acm.org/citation.cfm?id=3357218" xmlUrl="http://rss.acm.org/dl/J779.xml" text="ACM Transactions on Information Systems (TOIS)" type="rss" title="ACM Transactions on Information Systems (TOIS)" />
+<outline type="rss" htmlUrl="http://dl.acm.org/citation.cfm?id=3334016" text="The VLDB Journal — The International Journal on Very Large Data Bases" title="The VLDB Journal — The International Journal on Very Large Data Bases" xmlUrl="http://rss.acm.org/dl/J869.xml" />
+<outline xmlUrl="https://ieeexplore.ieee.org/rss/TOC69.XML" title="IEEE Transactions on Knowledge and Data Engineering - new TOC" htmlUrl="http://ieeexplore.ieee.org" text="IEEE Transactions on Knowledge and Data Engineering - new TOC" type="rss" />
+</outline>
+<outline title="网络与信息安全" text="网络与信息安全">
+<outline type="rss" text="IEEE Transactions on Dependable and Secure Computing - new TOC" xmlUrl="https://ieeexplore.ieee.org/rss/TOC8858.XML" title="IEEE Transactions on Dependable and Secure Computing - new TOC" htmlUrl="http://ieeexplore.ieee.org" />
+<outline type="rss" text="IEEE Transactions on Information Forensics and Security - new TOC" htmlUrl="http://ieeexplore.ieee.org" title="IEEE Transactions on Information Forensics and Security - new TOC" xmlUrl="https://ieeexplore.ieee.org/rss/TOC10206.XML" />
+<outline text="Journal of Cryptology" type="rss" xmlUrl="https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=145&amp;channel-name=Journal+of+Cryptology" htmlUrl="http://link.springer.com" title="Journal of Cryptology" />
+</outline>
+<outline text="计算机体系结构/并行与分布计算/存储系统" title="计算机体系结构/并行与分布计算/存储系统">
+<outline xmlUrl="http://rss.acm.org/dl/J960.xml" type="rss" text="ACM Transactions on Storage (TOS)" title="ACM Transactions on Storage (TOS)" htmlUrl="http://dl.acm.org/citation.cfm?id=3336116" />
+<outline text="ACM Transactions on Computer Systems (TOCS)" xmlUrl="http://rss.acm.org/dl/J774.xml" title="ACM Transactions on Computer Systems (TOCS)" htmlUrl="http://dl.acm.org/citation.cfm?id=3341160" type="rss" />
+<outline type="rss" xmlUrl="https://ieeexplore.ieee.org/rss/TOC43.XML" text="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems - new TOC" htmlUrl="http://ieeexplore.ieee.org" title="IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems - new TOC" />
+<outline title="IEEE Transactions on Computers - new TOC" htmlUrl="http://ieeexplore.ieee.org" text="IEEE Transactions on Computers - new TOC" xmlUrl="https://ieeexplore.ieee.org/rss/TOC12.XML" type="rss" />
+<outline text="IEEE Transactions on Parallel and Distributed Systems - new TOC" type="rss" htmlUrl="http://ieeexplore.ieee.org" xmlUrl="https://ieeexplore.ieee.org/rss/TOC71.XML" title="IEEE Transactions on Parallel and Distributed Systems - new TOC" />
+</outline>
+<outline title="计算机图形学与多媒体" text="计算机图形学与多媒体">
+<outline htmlUrl="http://dl.acm.org/citation.cfm?id=3306346" title="ACM Transactions on Graphics (TOG)" text="ACM Transactions on Graphics (TOG)" xmlUrl="http://rss.acm.org/dl/J778.xml" type="rss" />
+<outline text="IEEE Transactions on Image Processing - new TOC" type="rss" title="IEEE Transactions on Image Processing - new TOC" xmlUrl="https://ieeexplore.ieee.org/rss/TOC83.XML" htmlUrl="http://ieeexplore.ieee.org" />
+<outline title="IEEE Transactions on Visualization and Computer Graphics - new TOC" type="rss" text="IEEE Transactions on Visualization and Computer Graphics - new TOC" htmlUrl="http://ieeexplore.ieee.org" xmlUrl="https://ieeexplore.ieee.org/rss/TOC2945.XML" />
+</outline>
+<outline text="计算机科学理论" title="计算机科学理论">
+<outline text="SIAM Journal on Computing" xmlUrl="https://epubs.siam.org/action/showFeed?ui=0&amp;mi=922h9s&amp;ai=s1&amp;jc=smjcat&amp;type=etoc&amp;feed=rss" type="rss" title="SIAM Journal on Computing" htmlUrl="https://epubs.siam.org/loi/smjcat?ai=s1&amp;mi=922h9s&amp;af=R" />
+<outline xmlUrl="http://rss.sciencedirect.com/publication/science/08905401" title="ScienceDirect Publication: Information and Computation" htmlUrl="https://www.sciencedirect.com/journal/information-and-computation" text="ScienceDirect Publication: Information and Computation" type="rss" />
+<outline type="rss" htmlUrl="http://ieeexplore.ieee.org" title="IEEE Transactions on Information Theory - new TOC" xmlUrl="https://ieeexplore.ieee.org/rss/TOC18.XML" text="IEEE Transactions on Information Theory - new TOC" />
+</outline>
+<outline title="计算机网络" text="计算机网络">
+<outline xmlUrl="https://ieeexplore.ieee.org/rss/TOC49.XML" type="rss" title="IEEE Journal on Selected Areas in Communications - new TOC" htmlUrl="http://ieeexplore.ieee.org" text="IEEE Journal on Selected Areas in Communications - new TOC" />
+<outline type="rss" xmlUrl="https://ieeexplore.ieee.org/rss/TOC7755.XML" text="IEEE Transactions on Mobile Computing - new TOC" htmlUrl="http://ieeexplore.ieee.org" title="IEEE Transactions on Mobile Computing - new TOC" />
+<outline type="rss" htmlUrl="http://ieeexplore.ieee.org" xmlUrl="https://ieeexplore.ieee.org/rss/TOC90.XML" title="IEEE/ACM Transactions on Networking - new TOC" text="IEEE/ACM Transactions on Networking - new TOC" />
+</outline>
+<outline text="软件工程/系统软件/程序设计语言" title="软件工程/系统软件/程序设计语言">
+<outline title="ACM Transactions on Programming Languages and Systems (TOPLAS)" type="rss" xmlUrl="http://rss.acm.org/dl/J783.xml" htmlUrl="http://dl.acm.org/citation.cfm?id=3343145" text="ACM Transactions on Programming Languages and Systems (TOPLAS)" />
+<outline type="rss" htmlUrl="http://dl.acm.org/citation.cfm?id=3343019" text="ACM Transactions on Software Engineering and Methodology (TOSEM)" xmlUrl="http://rss.acm.org/dl/J790.xml" title="ACM Transactions on Software Engineering and Methodology (TOSEM)" />
+<outline htmlUrl="http://ieeexplore.ieee.org" title="IEEE Transactions on Software Engineering - new TOC" text="IEEE Transactions on Software Engineering - new TOC" type="rss" xmlUrl="https://ieeexplore.ieee.org/rss/TOC32.XML" />
+</outline>
+</body>
+</opml>
